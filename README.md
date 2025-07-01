@@ -74,6 +74,7 @@ pip install -r requirements.txt
 For queries, collaborations, or feedback:
 Mohammed Yasin 
 📧 mohamedyasin9168@gmail.com 
+
 🌐 [LinkedIn Profile] (https://www.linkedin.com/in/mohammed-yasin-12a2392a6/)
 
 ⭐ Acknowledgements
