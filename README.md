@@ -59,7 +59,7 @@ DL-Techniques-for-Anomaly-Detection-using-SDN
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/DL-Techniques-for-Anomaly-Detection-using-SDN.git](https://github.com/mohammedmohammed1/DL-Techniques-for-Anomaly-Detection-using-SDN/blob/main/DL%20Techniques%20for%20DDOS%20Anomaly%20detection%20in%20SDN%20%20(1).ipynb)
+git clone [https://github.com/your-username/DL-Techniques-for-Anomaly-Detection-using-SDN.git](https://github.com/mohammedmohammed1/DL-Techniques-for-Anomaly-Detection-using-SDN)
 
 
 2. Install dependencies:
